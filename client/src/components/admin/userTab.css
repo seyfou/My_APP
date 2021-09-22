@@ -1,0 +1,34 @@
+/* FontAwesome for working BootSnippet :> */
+
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+
+.card2{
+  
+ background-image:  linear-gradient(to right, rgba(255,0,0,0), rgba(240, 230, 208));
+
+  font-size: 18px;
+  color: #b65050 !important;
+  color: #b65050 !important;
+
+}
+
+
+
+
+
+#team .card2 {
+    border: none;
+    background: #c23c3c;
+ 
+}
+
+
+
+
+.card2 .card2-body img {
+    width: 80px;
+    height: 90px;
+    border-radius: 50%;
+}

@@ -1,0 +1,7 @@
+export const GET_CARD_LOAD="GET_CARD_LOAD";
+export const GET_CARD_SUCCESS="GET_CARD_SUCCESS";
+export const GET_CARD_FAIL="GET_CARD_FAIL";
+export const GET_CARD="GET_CARD";
+export const POST_CARD="POST_CARD";
+export const POST_CARD_FAIL="POST_CARD_FAIL";
+export const DELETE_CARD_FAIL="DELETE_CARD_FAIL";
